@@ -55,48 +55,59 @@ I chose my game *Hand Me Down*. It's the intro to the parser phase. I'll redo th
 > Next to the entrance is a A-frame sign for visitors.
 >
 > `> x hedges`
+> 
 > Trimmed hedges line the dirt road.  They are too tricky to climb over, under or
 > through.
 >
 > `> x manor`
+> 
 > If your eyes follow the hedge rows to the very end, they come to the red-
 > bricked manor house down the road.  It looks very impressive and not that far
 > away.
 >
 > `> read sign`
+> 
 > This sandwich board sign by the side of the entrance reads:Welcome!
 >
 > Don’t forget the three most important things!  See Sir Roderick inside.
 >
 > `> x balloons`
+> 
 > A bouquet of balloons are tethered to the letter box, with streamers gently
 > wafting below.  Some of the balloons spell out a message, maybe?
 >
 > `> get balloons`
+> 
 > You pull on the balloons’ string, but they are tied securely onto something
 > inside the letterbox.
 >
 > `> open letterbox`
+> 
 > The letter box seems to be locked.
 >
 > It’s so muffled to almost be your imagination, but you can just make out
 > chatting and laughter coming from the manor.
 >
 > `> open gates`
+> 
 > The iron gates seem to be locked.
 >
 > `> push sign`
+> 
 > The A-frame event sign is too heavy.
 >
 > `> x me`
+> 
 > Ruby Walker.  A wonderful girl, full of potential and opportunities, even
 > though your pockets are empty.
 >
 > `> pull balloons`
+> 
 > You pull on the balloons’ string, but they are tied securely onto something
 > inside the letterbox.
 >
 > `> n`
+> 
 > You head off down the road towards the manor.  At least it’s a nice day for a
 > walk.
 
