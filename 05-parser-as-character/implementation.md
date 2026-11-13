@@ -54,49 +54,49 @@ I chose my game *Hand Me Down*. It's the intro to the parser phase. I'll redo th
 >
 > Next to the entrance is a A-frame sign for visitors.
 >
-> >x hedges
+> `> x hedges`
 > Trimmed hedges line the dirt road.  They are too tricky to climb over, under or
 > through.
 >
-> >x manor
+> `> x manor`
 > If your eyes follow the hedge rows to the very end, they come to the red-
 > bricked manor house down the road.  It looks very impressive and not that far
 > away.
 >
-> >read sign
+> `> read sign`
 > This sandwich board sign by the side of the entrance reads:Welcome!
 >
 > Don’t forget the three most important things!  See Sir Roderick inside.
 >
-> >x balloons
+> `> x balloons`
 > A bouquet of balloons are tethered to the letter box, with streamers gently
 > wafting below.  Some of the balloons spell out a message, maybe?
 >
-> >get balloons
+> `> get balloons`
 > You pull on the balloons’ string, but they are tied securely onto something
 > inside the letterbox.
 >
-> >open letterbox
+> `> open letterbox`
 > The letter box seems to be locked.
 >
 > It’s so muffled to almost be your imagination, but you can just make out
 > chatting and laughter coming from the manor.
 >
-> >open gates
+> `> open gates`
 > The iron gates seem to be locked.
 >
-> >push sign
+> `> push sign`
 > The A-frame event sign is too heavy.
 >
-> >x me
+> `> x me`
 > Ruby Walker.  A wonderful girl, full of potential and opportunities, even
 > though your pockets are empty.
 >
-> >pull balloons
+> `> pull balloons`
 > You pull on the balloons’ string, but they are tied securely onto something
 > inside the letterbox.
 >
-> >n
+> `> n`
 > You head off down the road towards the manor.  At least it’s a nice day for a
 > walk.
 
@@ -144,18 +144,18 @@ I chose my game *Hand Me Down*. It's the intro to the parser phase. I'll redo th
 >
 > Next to the entrance is a A-frame sign for visitors.
 >
-> >x hedges
+> `> x hedges`
 >
 > You won't remember these, but the road is trimmed with tall, thick
 > hedges. Too tricky to climb over, through or under.
 >
-> >x manor
+> `> x manor`
 >
 > Okay if you watch where I'm pointing, let your eyes follow the hedge
 > rows all the way to the very end. You'll see an old, friendly,
 > red-bricked manor house. You probably feel at home there.
 >
-> >read sign
+> `> read sign`
 > 
 > This sign is a sandwich board. You know, like the kind out the front of the fish and chip shop at home. In a kind of A shape. This ones reads:
 > "Welcome!
@@ -163,17 +163,17 @@ I chose my game *Hand Me Down*. It's the intro to the parser phase. I'll redo th
 >
 > and it's signed "Sir Roderick".
 >
-> >x balloons
+> `> x balloons`
 > 
 > A bouquet of balloons are tethered to the letter box, with streamers gently
 > wafting below.  Some of the balloons spell out a message. Maybe you can read it, Rubes?
 >
-> >get balloons
+> `> get balloons`
 > 
 > You pull on the balloons’ string, but they are tied securely onto something
 > inside the letterbox. Hint hint! (Imagine me nudging you in the ribs)
 >
-> >open letterbox
+> `> open letterbox`
 > 
 > Oh dear, the letterbox is locked! Perhaps there is some sort of key
 > you could find somewhere? A letterbox key?
@@ -181,28 +181,28 @@ I chose my game *Hand Me Down*. It's the intro to the parser phase. I'll redo th
 > Did you hear that? It was the sounds of chatting and laughing...
 > Coming from the manor. I wonder if you should go there?
 >
-> >open gates
+> `> open gates`
 >
 > Yes siree, these gates are locked and cannot be opened. Trust me,
 > you can't go out there. Perhaps go somewhere else more fun than the
 > road.
 >
-> >push sign
+> `> push sign`
 >
 > I know you're a strong, independent girl, Ruby, but this sign is too
 > heavy for you to meaningfully move. Probably don't worry about it.
 >
-> >x me
+> `> x me`
 > 
 > You are, as always, Ruby Walker. You're my wonderful girl, full of
 > potential and opportunities. Your pockets, however, are empty.
 >
-> >pull balloons
+> `> pull balloons`
 >
 > You pull on the balloons’ string, but they are tied securely onto something
 > inside the letterbox. Hint hint! (Imagine me nudging you in the ribs)
 >
-> >n
+> `> n`
 >
 > You head off down the road towards the manor.  At least it’s a nice day for a
 > walk, and you've always been a good walker. (Ha!)
